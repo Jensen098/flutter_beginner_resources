@@ -1,5 +1,5 @@
 # Resources
-A list of useful resources I found when getting myself up to speed with Flutter, Google's (not so new) mobile app development tool.
+A list of useful resources I found when getting myself up to speed with Flutter.
 
 ## Flutter SDK Setup
 Follow these [steps](https://flutter.dev/docs/get-started/install) to setup Flutter with your preferred IDE.
