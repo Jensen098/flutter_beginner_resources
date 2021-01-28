@@ -1,11 +1,11 @@
 # Resources
-A list of useful resources I found when getting myself up to speed with Flutter.
+A list of useful resources for beginners.
 
 ## Flutter SDK Setup
 Follow these [steps](https://flutter.dev/docs/get-started/install) to setup Flutter with your preferred IDE.
 
 ### NOTE
-It's always a great idea to lookup any new widgets you might come across in the [Flutter API docs](https://api.flutter.dev/).
+Search for widgets using the [Flutter API docs](https://api.flutter.dev/).
 
 ## Tutorials
 ##### Beginner (1hr +)
